@@ -13,7 +13,7 @@ pipeline {​​​​​
 
       steps {​​​​​
 
-    git([url: 'https://github.com/SubaJS/jenkins-terraform.git', branch: 'main'])     }​​​​​
+    git([url: 'https://github.com/arjunachari12/jenkins-terraform.git', branch: 'main'])     }​​​​​
 
     }​​​​​
 
